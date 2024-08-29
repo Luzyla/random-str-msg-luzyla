@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-luzyla",
+  "version": "1.0.0",
+  "description": "Random string messages by Luzyla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luzyla/random-str-msg-luzyla.git"
+  },
+  "keywords": [],
+  "author": "Luzyla <luzyla.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luzyla/random-str-msg-luzyla/issues"
+  },
+  "homepage": "https://github.com/luzyla/random-str-msg-luzyla#readme",
+  "bin": {
+    "random-str-msg-luzyla": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
